@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "got": "^11.8.2",
+        "moment": "^2.29.1",
+        "node-schedule": "^2.1.0"
+    }
+}
