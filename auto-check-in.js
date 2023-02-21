@@ -50,7 +50,7 @@ async function myhttp(api, method, cb) {
 function appMain() {
   console.log(`
         --------------------
-        |  掘金自动签到抽奖 |
+        |   掘金自动签到抽奖  |
         --------------------
     `);
   setTimeout(() => {
